@@ -15,8 +15,15 @@ li {
 }
 
 button {
-  padding: 10px;
+  padding: 12px 25px;
   background: #007bff;
   color: white;
   border: none;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+button:hover {
+  background: #0056b3;
+  cursor: pointer;
 }
